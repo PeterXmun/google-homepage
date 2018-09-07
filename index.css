@@ -1,0 +1,60 @@
+.center_logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+    padding-top:120px;
+    clear:both;
+}
+
+input[type=text] {
+    width:460px;
+    height:30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    clear:both;
+}
+
+#buttons {
+    margin-top:20px;
+}
+
+.btn_Search {
+    font-size:13px;
+    border-radius: 2px;
+}
+
+.btn_Lucky {
+    font-size:13px;
+    border-radius: 2px;
+}
+
+.voice_search_button {
+    flex: 1;
+    display: Flex;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+}
+
+.float_right{
+    float:right;
+    padding-top:0px;
+}
+
+.float_left{
+    float:left;
+    margin-top: 0px;
+}
+
+
+
+
+
+
